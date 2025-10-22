@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Consultoria de TI - Miguel</title>
+    <title>Consultoria de TI - Miguel😊</title>
     <style>
         * {
             margin: 0;
